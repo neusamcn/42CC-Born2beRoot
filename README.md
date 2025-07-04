@@ -34,3 +34,14 @@ view info regarding a specific user group
 
 <code>cat /etc/group</code>\
 to see all the groups and users there are inside them
+
+<code>uname -a</code>\
+This shows kernel version, hostname, architecture, and more.
+
+<code>lsmod</code>\
+Lists all kernel modules currently running, which help support hardware and features.
+
+<code>dmesg | less</code>\
+Shows system boot and kernel messages — useful for debugging.
+
+
